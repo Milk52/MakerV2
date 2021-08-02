@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ripSharkU/Loader-MakerV2/main/script.main"))()
